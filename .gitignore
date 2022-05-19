@@ -14,3 +14,7 @@ node_modules
 
 # Build folder
 dist
+
+# lock files
+package-lock.json
+yarn.lock
